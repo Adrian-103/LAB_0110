@@ -19,6 +19,8 @@ Esta es la lista de prácticas, su propósito y su respectiva tarjeta de desarro
 | 7 | Coming soon!! | — |
 | 8 | Coming soon!! | — |
 
+## Detalles importantes del repositorio
+Cada práctica tiene su propia carpeta y dentro de cada una hay un archivo README.md con detalles específicos para esa práctica en particular.
 
 ## Gracias :)
 Espero que quien sea que esté leyendo este repositorio en el futuro le sea de utilidad todo este material :)
