@@ -14,7 +14,7 @@ Esta es la lista de prácticas, su propósito y su respectiva tarjeta de desarro
 | 2 | ADC, Timers & Interrupciones | NUCLEO-H755ZI-Q |
 | 3 | I2C & DMA | NUCLEO-H755ZI-Q |
 | 4 | ADC Multicanal, FPU, UART | NUCLEO-H755ZI-Q |
-| 5 | Modos de bajo consumo | NUCLEO-H755ZI-Q |
+| 5 | Modos de bajo consumo | NUCLEO-H503RB |
 | 6 | Coming soon!! | — |
 | 7 | Coming soon!! | — |
 | 8 | Coming soon!! | — |
